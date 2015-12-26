@@ -1,0 +1,25 @@
+{
+  "name": "omsapi-http-errors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Http error module.",
+  "author": "Konstantin Altuhov",
+  "keywords": [
+    "omsapi",
+    "webservices",
+    "node.js",
+    "error",
+    "http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omsapi/http-errors-nodejs"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/omsapi/http-errors-nodejs"
+  },
+  "dependencies": {
+    "util": "~0.10.3"
+  }
+}
