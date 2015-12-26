@@ -17,7 +17,7 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/omsapi/http-errors-nodejs"
+    "url": "https://github.com/omsapi/http-errors-nodejs/issues"
   },
   "dependencies": {
     "util": "~0.10.3"
